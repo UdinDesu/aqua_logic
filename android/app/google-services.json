@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203058725799",
+    "project_id": "auto-feeder-f7b4a",
+    "storage_bucket": "auto-feeder-f7b4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203058725799:android:91f958c7aed0249e5a6c82",
+        "android_client_info": {
+          "package_name": "com.example.aqua_logic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO9rdNDjxPkCbcKGmF-H25njNp6HJlw1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
